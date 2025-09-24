@@ -11,6 +11,7 @@ The Unified Gateway pack provides comprehensive documentation, architectural inf
 This pack is organized into the following sections:
 
 - **Memory Starters** (`memory_starters/`): Documentation, specifications, and contextual information about Unified Gateway
+- **Rules** (`rules/`): Minimal rules for referencing the documentation and context information
 
 ## Usage
 
@@ -18,4 +19,5 @@ This pack is designed to be used with the Rulebook-AI system to provide comprehe
 
 ## Version
 
+Current version: 1.0.0
 Current version: 1.0.0
